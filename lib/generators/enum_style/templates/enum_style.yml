@@ -1,0 +1,5 @@
+article:
+  publish:
+    draft: '#ff4500'
+    preview: success
+    published: primary
