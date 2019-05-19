@@ -26,7 +26,7 @@ You can now edit them to adjust to your needs.
 
 In model file:
 
-```
+```ruby
 class Article < ApplicationRecord
 
   #----------------------------------------
@@ -39,7 +39,7 @@ end
 
 You can call:
 
-```
+```ruby
 article = Article.first
 article.published!
 
@@ -50,7 +50,7 @@ article.publish_style
 # -> primary
 ```
 
-```
+```ruby
 <%= tag.p(class: "btn-#{article.publish_style}") { 'content' } %>
 # -> "<p class='btn-primary'>content</p>"
 ```
