@@ -1,8 +1,7 @@
 PATH
   remote: .
   specs:
-    enum_style (0.1.0)
-      rails (~> 5.2.1)
+    enum_style (0.1.2)
 
 GEM
   remote: https://rubygems.org/
@@ -122,6 +121,7 @@ PLATFORMS
 DEPENDENCIES
   enum_style!
   mysql2
+  rails (~> 5.2.1)
 
 BUNDLED WITH
-   1.16.1
+   1.17.2

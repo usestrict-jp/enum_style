@@ -7,9 +7,9 @@ require "enum_style/version"
 Gem::Specification.new do |s|
   s.name        = "enum_style"
   s.version     = EnumStyle::VERSION
-  s.authors     = ["kenzooooo"]
-  s.email       = ["ruby.on.nishizawa@gmail.com"]
-  s.homepage    = "https://github.com/kenzooooo"
+  s.authors     = ["usestrict-jp"]
+  s.email       = ["info@usestrict.jp"]
+  s.homepage    = "https://medipro.pro"
   s.summary     = "define enum style for rails"
   s.license     = "MIT"
 
