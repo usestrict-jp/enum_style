@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = EnumStyle::VERSION
   s.authors     = ["usestrict-jp"]
   s.email       = ["info@hackland.jp"]
-  s.homepage    = "https://hackland.pro"
+  s.homepage    = "https://hackland.jp"
   s.summary     = "define enum style for rails"
   s.license     = "MIT"
 
