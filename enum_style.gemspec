@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.name        = "enum_style"
   s.version     = EnumStyle::VERSION
   s.authors     = ["usestrict-jp"]
-  s.email       = ["info@usestrict.jp"]
-  s.homepage    = "https://medipro.pro"
+  s.email       = ["info@hackland.jp"]
+  s.homepage    = "https://hackland.pro"
   s.summary     = "define enum style for rails"
   s.license     = "MIT"
 
